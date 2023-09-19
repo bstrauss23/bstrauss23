@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bstrauss23
+- 👋 Hi, I’m Ben Strauss
 - 👀 I’m interested in NFTs, Smart Contracts, and Landscape Photography
 - 🌱 I’m currently learning solidity dev
 - 💞️ I’m looking to collaborate on custom smart contracts
